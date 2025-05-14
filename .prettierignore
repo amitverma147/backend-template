@@ -1,0 +1,15 @@
+*.env
+*.env.test
+*.env.production
+*.env.development
+*.env.local
+*.env.development.local
+*.env.test.local
+
+/.vscode
+/.idea  
+/.DS_Store
+/.history
+/.next
+/node_modules
+./dist
